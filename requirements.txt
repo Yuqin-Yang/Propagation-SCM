@@ -1,0 +1,4 @@
+# py36
+numpy 
+scikit-learn
+scipy
