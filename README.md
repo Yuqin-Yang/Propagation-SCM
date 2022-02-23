@@ -1,14 +1,14 @@
-## Propagation-SCM
+# Propagation-SCM
 
 Demo code for "[Causal Discovery in Linear Structural Causal Models with Deterministic Relations](https://openreview.net/forum?id=cU5EeCQk5LX)" by Yuqin Yang, Mohamed Nafea, AmirEmad Ghassami and Negar Kiyavash, CLeaR 2022. 
 
-### Requirements
+## Requirements
 To install requirements: 
 ```
 pip install -r requirements.txt
 ```
 
-### Satisfiability
+## Satisfiability
 
 For testing the satisfiability of the derived conditions (Appendix G.1), run:
 ```
@@ -16,7 +16,7 @@ python satisfiability.py
 ```
 The script will return the number of attempts to obtain a linear P-SCM that satisfies Conditions 1 and 2 for given parameters, as well as the matrices A, B of this linear P-SCM.
 
-### Recovery
+## Recovery
 
 For testing the performance of P-SCM Recovery algorithm (Appendix G.2), run:
 ```
