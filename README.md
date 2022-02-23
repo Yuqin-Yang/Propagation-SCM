@@ -1,3 +1,5 @@
+## Propagation-SCM
+
 Demo code for "[Causal Discovery in Linear Structural Causal Models with Deterministic Relations](https://openreview.net/forum?id=cU5EeCQk5LX)" by Yuqin Yang, Mohamed Nafea, AmirEmad Ghassami and Negar Kiyavash, CLeaR 2022. 
 
 ### Requirements
